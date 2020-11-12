@@ -43,7 +43,7 @@
       );
 
       // Push to "data"
-      array_push($survey, $survey_item);
+      array_push($survey_arr, $survey_item);
       // array_push($posts_arr['data'], $post_item);
     }
 
